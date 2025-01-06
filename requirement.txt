@@ -1,0 +1,7 @@
+PIL 
+matplotlib
+tkinter
+streamlit
+pandas
+numpy
+scikit-learn
